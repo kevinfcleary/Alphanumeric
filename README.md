@@ -9,5 +9,5 @@ http://www.wordfrequency.info/ and they have asked that their data not be posted
   
 The author would like to thank CW for consultation over chicken nuggets, and AK for answering a python question at a moment's notice.
 
-[embed]https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod3.pdf[/embed]
-[embed]https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod5.pdf[/embed]
+https://docs.google.com/viewer?url=https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod3.pdf
+https://docs.google.com/viewer?url=https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod5.pdf
