@@ -8,6 +8,3 @@ http://www.wordfrequency.info/ and they have asked that their data not be posted
   It warms my heart that nonsense is so easily proven to be exactly that, and that a common sense understanding of a totally stupid result like this exists. Please don't engage in numerology, it's profoundly stupid. Instead learn number theory, or any other branch of mathematics. If the universe is leaving messages in numbers I really doubt they'd go with English and a base 10 version of mysticism, seems kind of arbitrary, but what do I know?
   
 The author would like to thank CW for consultation over chicken nuggets, and AK for answering a python question at a moment's notice.
-
-https://docs.google.com/viewer?url=https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod3.pdf
-https://docs.google.com/viewer?url=https://github.com/kevinfcleary/Alphanumeric/blob/master/Five/Mod5.pdf
